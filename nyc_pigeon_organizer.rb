@@ -14,4 +14,5 @@ final_results = data.each_with_object({}) do |(key, value), array|
     end 
 end
 end 
+binding.pry 
 end 
